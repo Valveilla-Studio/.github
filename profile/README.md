@@ -1,4 +1,4 @@
-## Hello :3
+## Hello!
 
 Valveilla Studio is a Helsinki-based technical creative agency.
 
